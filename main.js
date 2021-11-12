@@ -65,7 +65,7 @@ function gotResult(){
             document.getElementById("update_emoji2").innerHTML = "&#128075;";
         }
         if(results[1].label == "super"){
-            document.getElementById("update_emoji2").innerHTML = "&#128076;"
+            document.getElementById("update_emoji2").innerHTML = "&#128076;";
         }
     }
 }
